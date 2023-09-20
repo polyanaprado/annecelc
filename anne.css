@@ -1,13 +1,13 @@
 h1 {
     text-align:center;
-    background-color: rgb(0, 140, 255);
+    background-color: rgb(241, 241, 241);
 }
 h2{
     text-align: center;
 }
 h3{
     font-style: oblique;
-    background-color: blue;
+    background-color: rgb(1, 1, 14);
     text-align: center;
 }
 
@@ -20,7 +20,7 @@ strong {
 }
 
 body {
-    background-color: rgb(226, 43, 226);
+    background-color: rgb(53, 46, 59);
 }
 .imagem1 {
     width: 200px;
@@ -29,11 +29,11 @@ body {
  text-align: center;
 }
 
-.poly {
+.unicornio {
     background-color: forestgreen
 
 }
-.poly2 {
+.brilho {
    color: aqua;
     font-style: italic
 }
